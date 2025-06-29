@@ -1,0 +1,11 @@
+# Add path_provider for CSV export
+# Add material 3 support (Flutter 3.10+)
+dependencies:
+  flutter:
+    sdk: flutter
+  sms_advanced: ^1.1.0
+  permission_handler: any
+  path_provider: any
+  cupertino_icons: ^1.0.8
+
+# ...existing code...

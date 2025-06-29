@@ -1,0 +1,5 @@
+# Add flutter_date_pickers for calendar UI
+# https://pub.dev/packages/flutter_date_pickers
+
+dependencies:
+  flutter_date_pickers: ^0.6.2
