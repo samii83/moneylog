@@ -67,7 +67,7 @@ MoneyLog is a comprehensive personal finance management app that helps you track
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/moneylog.git
+   git clone https://github.com/samii83/moneylog.git
    cd moneylog
    ```
 2. Install dependencies:
